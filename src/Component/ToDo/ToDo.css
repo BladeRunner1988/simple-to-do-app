@@ -1,0 +1,20 @@
+.to-do-container {
+    border: 1px solid forestgreen;
+    padding: 0 30px;
+    width: 400px;
+    margin: 16px auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+}
+
+/*.to-do-info-container {*/
+/*    display: inline;*/
+/*}*/
+
+.to-do-title, .to-do-description {
+    text-align: left;
+}
+
+/*.to-do-delete {*/
+/*    display: inline;*/
+/*}*/
